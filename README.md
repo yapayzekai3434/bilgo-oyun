@@ -1,0 +1,2 @@
+# bilgo-oyun
+oyun kelime
